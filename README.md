@@ -5,4 +5,5 @@
 * 今度は先にSKIPしない
 * そしてSKIP
 * SKIPするブランチ
+* SKIPする空ブランチpushのためのSKIP
 
