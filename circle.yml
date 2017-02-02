@@ -1,6 +1,6 @@
 test:
   override:
-    - echo OK
+    - echo test OK
 
 deployment:
   foo:
