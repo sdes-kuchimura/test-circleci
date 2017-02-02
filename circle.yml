@@ -1,3 +1,9 @@
 test:
   override:
-    - echo OK
+    - echo test OK
+
+deployment:
+  foo:
+    branch: feature-A
+    commands:
+      - echo feature-A deployment
